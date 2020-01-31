@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29770" started-at="2019-12-27T10:54:12Z" finished-at="2019-12-27T10:54:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29770" started-at="2019-12-27T10:54:12Z" finished-at="2019-12-27T10:54:42Z">
+      <class name="hellocucumber.AirAsia">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:hellocucumber.AirAsia@5ed828d]" name="beforeTest" is-config="true" duration-ms="12349" started-at="2019-12-27T16:24:12Z" finished-at="2019-12-27T16:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="search()[pri:0, instance:hellocucumber.AirAsia@5ed828d]" name="search" duration-ms="17381" started-at="2019-12-27T16:24:24Z" finished-at="2019-12-27T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:hellocucumber.AirAsia@5ed828d]" name="verifyTitle" duration-ms="12" started-at="2019-12-27T16:24:42Z" finished-at="2019-12-27T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:hellocucumber.AirAsia@5ed828d]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-12-27T16:24:42Z" finished-at="2019-12-27T16:24:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- hellocucumber.AirAsia -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
